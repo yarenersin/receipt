@@ -1,0 +1,26 @@
+<annotation>
+	<folder>receipt</folder>
+	<filename>receipt (22).jpeg</filename>
+	<path>C:\Users\HP\Desktop\receipt\receipt (22).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>total</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>789</ymin>
+			<xmax>924</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+</annotation>
